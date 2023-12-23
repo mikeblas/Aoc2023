@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Day15": {
+      "commandName": "Project",
+      "workingDirectory": "c:\\projects\\AoC2023\\Day15"
+    }
+  }
+}
